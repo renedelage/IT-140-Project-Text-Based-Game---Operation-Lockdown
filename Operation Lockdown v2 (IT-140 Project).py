@@ -266,7 +266,6 @@ def search():
             else:
                 print('-'*50)
                 print("You've made an invalid selection. Please try again.")
-                print('-'*50)
 
     elif current_room == 'Records Room':
         while True:
@@ -296,7 +295,6 @@ def search():
             else:
                 print('-'*50)
                 print("You've made an invalid selection. Please try again.")
-                print('-'*50)
 
     elif current_room == 'North Hall':
         if safe not in notes:
@@ -351,7 +349,6 @@ def search():
             else:
                 print('-'*50)
                 print("You've made an invalid selection. Please try again.")
-                print('-'*50)
 
     elif current_room == 'Locker Room':
         while True:
@@ -384,7 +381,6 @@ def search():
             else:
                 print('-'*50)
                 print("You've made an invalid selection. Please try again.")
-                print('-'*50)
 
     elif current_room == "Chief's Office":
         while True:
@@ -425,7 +421,6 @@ def search():
                     else:
                         print('-'*50)
                         print("You've made an invalid selection. Please try again.")
-                        print('-'*50)
                 break
             elif search == '3':
                 print('-'*50)
@@ -434,9 +429,7 @@ def search():
             else:
                 print('-'*50)
                 print("You've made an invalid selection. Please try again.")
-                print('-'*50)
         
-
 # end game sequence
 
 def lab():
