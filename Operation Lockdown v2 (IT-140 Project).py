@@ -421,6 +421,7 @@ def search():
                     else:
                         print('-'*50)
                         print("You've made an invalid selection. Please try again.")
+                        print('-'*50)
                 break
             elif search == '3':
                 print('-'*50)
