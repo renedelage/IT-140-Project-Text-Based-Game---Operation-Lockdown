@@ -37,7 +37,6 @@ code = 'GBKZ'
 chief = "Something's been off with the chief lately. He's been holed up in his office more than usual lately, and he's been very territorial over that bookcase..."
 admin = f"The IT guy was working on the chief's computer again. He said he had to reset the Chief's password; it's now '{password}'."
 safe = f"Sam brought in a new safe for the Armory last week. The code needs to be reset; it's currently {code}."
-
 inventory = []
 notes = []
 
