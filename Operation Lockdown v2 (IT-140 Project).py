@@ -1,7 +1,9 @@
 ## AUTHOR: Rene DeLage
 ## Project Submission - Text-Based Game
 ## Created 10/10/2026
-## Version 1.1
+## Version 2.1
+
+## OPERATION LOCKDOWN ##
 
 import random
 
