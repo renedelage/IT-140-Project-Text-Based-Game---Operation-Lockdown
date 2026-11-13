@@ -3,6 +3,10 @@
 ## Created 10/10/2026
 ## Version 2.1
 
+### The objective of this project is to create a game in which the player must explore several rooms and collect items
+### found across those rooms in order to defeat a villain found at the end. The final confrontation can only take place
+### once the player has found all necessary items. 
+
 import random
 
 # define available input options
